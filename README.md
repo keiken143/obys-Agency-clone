@@ -66,16 +66,6 @@ Frontend Animation Project
 
 
 
-📂 Project Structure
- ├── index.html
- ├── style.css
- ├── script.js
- ├── assets/
- │   ├── images/
- │   ├── videos/
- │   └── fonts/
-
-
 🙌 Acknowledgements
 
  (^ ^) GSAP
