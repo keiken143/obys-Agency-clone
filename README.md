@@ -67,7 +67,13 @@ Frontend Animation Project
 
 
 📂 Project Structure
- <img width="201" height="230" alt="image" src="https://github.com/user-attachments/assets/d5f3160e-0862-4a9c-92a7-9b7556272033" />
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ ├── assets/
+ │   ├── images/
+ │   ├── videos/
+ │   └── fonts/
 
 
 🙌 Acknowledgements
